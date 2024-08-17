@@ -22,6 +22,7 @@
 - indent_blankline -> [X] -> it makes me gain some visuality while matching indents between code blocks etc.
 - substitution -> [X] -> it simply helps you to replace yanked word, phrase or whatever it is with a word, sentence etc. Check the keymaps
 - surround -> [ ] -> it helps you to surround a word or a motion range with e.g `""` or `()` so it's all up to you, give it a try
+- trouble -> [X] -> to gain holistic view on diagnostics, todos, instead of just wildly searching with telescope
 
 ## Scripts or shortcuts to adjust
 
