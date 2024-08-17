@@ -26,4 +26,8 @@ keymap('n', '<S-h>', ':bprevious<CR>', opts)
 -- Close all buffers
 --  ['x'] = { '<cmd>bufdo bd<CR>', 'Close Buffer' },
 keymap('n', '<leader>x', ':bufdo bd', opts)
+
+-- Telescope keymaps with other plugins
+keymap('n', '<leader>ft', '<cmd>TodoTelescope<cr>', opts)
+
 return {}
