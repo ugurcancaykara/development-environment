@@ -12,10 +12,10 @@
 
 - bufferline -> [X] -> gives buffers tab view appearance
 - dressing -> [X] -> outlines a beautiful box to rename files etc.
-- gitsigns -> [] -> git symbols at files, folders
-- autopairs automatically close () {} '' "" -> [ ] -> automatically completes ending symbol of ({['"
-- comment -> [] -> ?
-- todo comments -> [] -> i think it's important to keep notes 
+- gitsigns -> [X] -> git symbols at files, folders
+- autopairs automatically close () {} '' "" -> [X] -> automatically completes ending symbol of ({['"
+- comment -> [] -> It works to toggle comment the code blocks as multilines
+- todo comments -> [X] -> i think it's important to keep notes 
 - auto-sessions (when you opened nvim, and <space>-w-r boom you are exactly at where you left) -> [] 
 - greeter, alpha-nvim -> [] -> you can adjust appearance of enterance to nvim
 - split maximizer -> [X] -> let's say you are using 2 window or 3 window and just want to work on selected, maximize it
