@@ -32,5 +32,4 @@ export LESS_TERMCAP_us=$'\E[01;31m'
 export FZF_DEFAULT_OPTS="\
 --color="hl:green,gutter:-1,hl+:green,info:gray,prompt:blue,pointer:blue,marker:blue,spinner:blue,header:gray" \
 --no-bold \
---preview-window border-sharp \
---bind "ctrl-h:preview-down,ctrl-l:preview-up" \
+--preview-window border-sharp" 
