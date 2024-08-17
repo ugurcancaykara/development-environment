@@ -10,13 +10,14 @@
 
 ## Plugins to install
 
-- bufferline -> []
-- gitsigns -> []
-- autopairs automatically close () {} '' "" -> []
-- comment -> []
-- todo comments -> [] 
+- bufferline -> [X] -> gives buffers tab view appearance
+- dressing -> [X] -> outlines a beautiful box to rename files etc.
+- gitsigns -> [] -> git symbols at files, folders
+- autopairs automatically close () {} '' "" -> [ ] -> automatically completes ending symbol of ({['"
+- comment -> [] -> ?
+- todo comments -> [] -> i think it's important to keep notes 
 - auto-sessions (when you opened nvim, and <space>-w-r boom you are exactly at where you left) -> [] 
-- greeter, alpha-nvim -> []
+- greeter, alpha-nvim -> [] -> you can adjust appearance of enterance to nvim
 
 
 ## Scripts or shortcuts to adjust
@@ -26,7 +27,7 @@
 
 
 ## Videos to watch
-- 30 Vim commands in [10 minutes](https://www.youtube.com/watch?v=RSlrxE21l_k)
+- 30 Vim commands in[10 minutes](https://www.youtube.com/watch?v=RSlrxE21l_k)
 - Neovim setup for [Go](https://www.youtube.com/watch?v=i04sSQjd-qo)
 
 
