@@ -16,7 +16,7 @@
 - autopairs automatically close () {} '' "" -> [X] -> automatically completes ending symbol of ({['"
 - comment -> [] -> It works to toggle comment the code blocks as multilines
 - todo comments -> [X] -> i think it's important to keep notes 
-- auto-sessions (when you opened nvim, and <space>-w-r boom you are exactly at where you left) -> [] 
+- auto-sessions (when you opened nvim, and <space>-w-r boom you are exactly at where you left) -> [X] 
 - greeter, alpha-nvim -> [] -> you can adjust appearance of enterance to nvim
 - split maximizer -> [X] -> let's say you are using 2 window or 3 window and just want to work on selected, maximize it
 - indent_blankline -> [X] -> it makes me gain some visuality while matching indents between code blocks etc.
