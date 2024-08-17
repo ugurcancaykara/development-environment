@@ -20,7 +20,8 @@
 - greeter, alpha-nvim -> [] -> you can adjust appearance of enterance to nvim
 - split maximizer -> [X] -> let's say you are using 2 window or 3 window and just want to work on selected, maximize it
 - indent_blankline -> [X] -> it makes me gain some visuality while matching indents between code blocks etc.
-
+- substitution -> [X] -> it simply helps you to replace yanked word, phrase or whatever it is with a word, sentence etc. Check the keymaps
+- surround -> [ ] -> it helps you to surround a word or a motion range with e.g `""` or `()` so it's all up to you, give it a try
 
 ## Scripts or shortcuts to adjust
 
