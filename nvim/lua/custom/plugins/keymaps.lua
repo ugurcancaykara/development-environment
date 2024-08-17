@@ -24,5 +24,6 @@ keymap('n', '<S-l>', ':bnext<CR>', opts)
 keymap('n', '<S-h>', ':bprevious<CR>', opts)
 
 -- Close all buffers
+--  ['x'] = { '<cmd>bufdo bd<CR>', 'Close Buffer' },
 keymap('n', '<leader>x', ':bufdo bd', opts)
 return {}
