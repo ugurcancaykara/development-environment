@@ -2,7 +2,7 @@
 
 Welcome to my personal development environment setup repository! Here, you'll find everything you need to replicate my local development environment, including configurations, CLI tools, and other essential utilities I use daily. 
 
-- Quick note: I will share a guide list like how to start learning and where from exactly. 
+- Quick note: I will share a general guide like how to start learning and where from exactly. 
 
 ## Overview
 
@@ -21,12 +21,12 @@ I've prepared a Makefile that automates the process, guiding you through an inte
 
 ### How to Use
 
-#### 1. Loading Neovim Configurations
+#### 1. Installing Neovim Configurations
 
 To load your existing Neovim configurations into this repository, run the following command:
 
 ```bash
-make load
+make install
 ```
 then just continue to watch terminal and type when interactive mode needs an answer
 
