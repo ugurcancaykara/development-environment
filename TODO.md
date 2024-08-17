@@ -18,11 +18,13 @@
 - todo comments -> [] -> i think it's important to keep notes 
 - auto-sessions (when you opened nvim, and <space>-w-r boom you are exactly at where you left) -> [] 
 - greeter, alpha-nvim -> [] -> you can adjust appearance of enterance to nvim
+- split maximizer -> [] -> let's say you are using 2 window or 3 window and just want to work on selected, maximize it
 
 
 ## Scripts or shortcuts to adjust
 
-- lazygit integration via neovim -> [X]
+- lazygit integration via neovim -> [X] -> cli integration into nvim so flow doesn't get interrupted
+- :vsplit -> [X] -> assign a shortcut so a can quickly split screen 
 
 
 
