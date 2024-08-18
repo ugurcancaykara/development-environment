@@ -1,5 +1,4 @@
 
-Copy code
 # Development Environment Setup 🚀
 
 Welcome to my personal development environment setup repository! Here, you'll find everything you need to replicate my local development environment, including configurations, CLI tools, and other essential utilities I use daily. 
