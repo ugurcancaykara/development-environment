@@ -9,11 +9,14 @@ keymap('', '<Space>', '<Nop>', opts)
 vim.g.mapleader = ' '
 vim.g.maplocalleader = ' '
 
+-- NvimTree navigation
 keymap('n', '<leader>e', ':NvimTreeToggle<cr>', opts)
 keymap('n', '<leader>u', ':NvimTreeFocus<cr>', opts)
 
--- Normal --
--- Better window navigation
+-- ToggleTerm navigation
+keymap('n', '<leader>m', ':ToggleTerm<cr>', opts)
+
+-- better window navigation
 keymap('n', '<C-h>', '<C-w>h', opts)
 keymap('n', '<C-j>', '<C-w>j', opts)
 keymap('n', '<C-k>', '<C-w>k', opts)
