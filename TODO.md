@@ -23,11 +23,13 @@ Installed ones:
 - indent_blankline -> [X] -> it makes me gain some visuality while matching indents between code blocks etc.
 - substitution -> [X] -> it simply helps you to replace yanked word, phrase or whatever it is with a word, sentence etc. Check the keymaps
 - trouble -> [X] -> to gain holistic view on diagnostics, todos, instead of just wildly searching with telescope
+- neo-tab -> [X] -> to tabout quotes, brackets easily with using tab
+
 
 Not installed ones:
 - surround -> [ ] -> it helps you to surround a word or a motion range with e.g `""` or `()` so it's all up to you, give it a try
 - toggleterm -> [ ] -> it helps you to customize your terminal view for different plugins 
-
+- [tabout.nvim](https://github.com/abecodes/tabout.nvim) -> [ ] -> since I'm using neo-tab for now, I won't try this unless neo-tab doesn't seem to work for my cases. Here is [custom](https://github.com/kr40/nvim/blob/master/lua/plugins/user-tabout.lua) configuration though
 
 
 ## Scripts or shortcuts to adjust
