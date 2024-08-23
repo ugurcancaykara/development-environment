@@ -583,6 +583,7 @@ require('lazy').setup({
         --
         -- But for many setups, the LSP (`tsserver`) will work just fine
         tsserver = {},
+        terraformls = {},
         --
 
         lua_ls = {
@@ -677,6 +678,9 @@ require('lazy').setup({
         graphql = { 'prettier' },
         go = { 'goimports', 'gofmt' },
         terragrunt = { 'terragrunt_hclfmt' },
+        terraform = { 'terraform_fmt' },
+        tf = { 'terraform_fmt' },
+        ['terraform-vars'] = { 'terraform_fmt' },
       },
     },
   },
@@ -892,6 +896,7 @@ require('lazy').setup({
         'json',
         'rego',
         'terraform',
+        'hcl',
         'toml',
         'typescript',
         'svelte',
